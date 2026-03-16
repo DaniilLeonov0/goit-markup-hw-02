@@ -1,0 +1,49 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: black;
+    background-color: white;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+button {
+    cursor: pointer;
+}
+
+.hero {
+    background-color:#2E2F42;
+    color: white;
+
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+    color: black;
+
+}
+.logo span {
+    color: #4D5AE5;
+}
+
+button {
+    background-color: #4D5AE5;
+    color: white;
+}
+
+.team-title {
+    text-align: center;
+}
+
+.team-name, 
+.team-position {
+    text-align: center;
+}
+
+.team-list {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
