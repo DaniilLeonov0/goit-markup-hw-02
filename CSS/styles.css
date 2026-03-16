@@ -47,3 +47,11 @@ button {
 a {
     text-decoration: none;
 }
+
+.main-portfolio {
+    text-align: center;
+}
+
+.list-portfolio {
+    list-style: none;
+}
